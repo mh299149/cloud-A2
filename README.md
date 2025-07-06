@@ -132,12 +132,3 @@ CREATE TABLE products (
 
 ⚠️ **Do not hardcode sensitive information like DB credentials.**
 Use environment variables or `.env` + `python-dotenv` for production deployments.
-
----
-
-## 📬 Contact
-
-Built [MOHD FAIZAN].
-For issues, suggestions, or contributions, feel free to open an issue or pull request.
-
----
